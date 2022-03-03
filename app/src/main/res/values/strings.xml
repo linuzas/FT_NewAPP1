@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FT_NewAPP</string>
+    <string name="default_name">Sveikas Pasauli</string>
+    <string name="changed_name">Kodel tu kariauji?</string>
+    <string name="btn_change_name">Click Me!</string>
+    <string name="btn_change_color">Sustok!</string>
 </resources>
